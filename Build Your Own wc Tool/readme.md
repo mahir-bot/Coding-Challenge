@@ -1,4 +1,3 @@
-````markdown
 # Build Your Own `wc` Tool
 
 This project involves creating a custom version of the Unix command-line tool `wc` (word count). The goal is to develop a tool, `ccwc`, that counts lines, words, characters, and bytes in a file, or reads from standard input if no file is specified.
@@ -39,7 +38,7 @@ Example:
 ccwc -c test.txt
 # Output: 342190 test.txt
 ```
-````
+
 
 ### Step Two: Line Count
 
